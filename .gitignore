@@ -35,6 +35,7 @@ secrets.txt
 *.bak
 *.zip
 *.tar.gz
+*.db
 
 # Ignore files in a specific directory
 /docs/notes.txt
